@@ -26,14 +26,14 @@ homepostlimit: 3
 
 # Disqus comments:
 disqus:           false
-shortname:        homerhanumatgithubioknitrlanyon
+shortname:        btpersonal
 
 # Social Media
 twitter:          false # add a twitter button to each post
 facebook:         false # add a facebook share button to each post
 
 author:
-  name:           'Homer White'
+  name:           'Ben Tonelli'
   url:            https://bentonelli.github.io
 
 github:
