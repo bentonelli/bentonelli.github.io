@@ -2,7 +2,7 @@
 title:               Ben's Blogspot
 tagline:             'A Work in Progress'
 description:         'Stay tuned, people'
-url:                 https://bentonelli.github.io
+url:                 https://bentonelli.github.io/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
