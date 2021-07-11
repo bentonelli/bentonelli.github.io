@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example content
+title: Currently Building Site!
 ---
 
 
@@ -8,4 +8,4 @@ title: Example content
   This site is a work in progress!
 </div>
 
-Stay tuned for more info soon on my current projects, etc.
+Stay tuned for info on my current projects, etc.
