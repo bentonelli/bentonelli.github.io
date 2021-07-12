@@ -3,13 +3,13 @@ layout: page
 title: Research
 ---
 
-Migratory birds are efficient dispersal agents for a variety of organisms, including the seeds of many plants, ecto and endoparasites, and pathogens like Lyme Disease, West Nile Virus, and Avian Influenza. Many birds migrate thousands of kilometers each year, linking ecosystems across large scales. This linkage means that whatever attaches to, or infects a bird in the tropics may end up in the temperate forests of North America, or vise-versa. I am interested in what these linkages mean for the health of birds and humans.
+Migratory birds are efficient dispersal agents for a variety of organisms, including the seeds of many plants, ecto and endoparasites, and pathogens like Lyme Disease, West Nile Virus, and Avian Influenza. Many birds migrate thousands of kilometers each year, linking ecosystems across large scales. This linkage means that whatever attaches to or infects a bird in the tropics may end up in the temperate forests of North America, or vise-versa. I am interested in what these linkages mean for the health of birds and humans.
 
 <h2>
 Modeling Migratory Movement
 </h2>
 
-Researching topics that rely on understanding the movement of individual migratory birds is difficult because of the incredible diversity of migratory behavior across and within species. One of my projects is focused on creating individual-based models to simulate the movement of birds across time and space. These computational models can then be used to investigate applied questions - like predicting where ticks that attach to birds are likely to be <a href="https://www.sciencedirect.com/science/article/pii/S1877959X18302632">dispersed</a>.
+Researching questions that rely on understanding the movement of individual migratory birds is difficult because of the incredible diversity of migratory behavior across and within species. One of my projects is focused on creating individual-based models to simulate the movement of birds across time and space. These computational models can then be used to investigate applied questions - like predicting where ticks that attach to birds are likely to be <a href="https://www.sciencedirect.com/science/article/pii/S1877959X18302632">dispersed</a>.
 
 <img src="/MIBM_VATH_vid_3_15.gif" />
 
