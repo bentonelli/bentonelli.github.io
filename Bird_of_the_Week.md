@@ -8,4 +8,4 @@ Since late 2019, I have been writing a weekly newsletter called "Bird of the Wee
 Bird of the Week is sent out on Wednesdays, and features five facts about a single bird.
 
 
-To sign up for Bird of the Week, click <a href="https://forms.gle/1dUay3oLhGBYm3yc8">here</a>.
+To sign up for Bird of the Week, click here: <iframe src="https://btonelli.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
