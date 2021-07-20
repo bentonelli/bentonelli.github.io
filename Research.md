@@ -2,6 +2,9 @@
 layout: page
 title: Research
 ---
+<h2>
+Migratory Birds as Dispersal Agents
+</h2>
 
 Migratory birds are efficient dispersal agents for a variety of organisms, including the seeds of many plants, ecto and endoparasites, and pathogens like Lyme Disease, West Nile Virus, and Avian Influenza. Many birds migrate thousands of kilometers each year, linking ecosystems across large scales. This linkage means that whatever attaches to or infects a bird in the tropics may end up in the temperate forests of North America, or vise-versa. I am interested in what these linkages mean for the health of birds and humans.
 
