@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: About
 ---
 <img src="/Ben_Prof_Pic_crop.jpeg" />
 
