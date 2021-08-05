@@ -1,7 +1,7 @@
 # Setup
-title:               Ben Tonelli's Personal Website
-tagline:             'A Work in Progress!'
-description:         'Updated 7/21'
+#title:               The Personal Website of Ben Tonelli
+#tagline:             'A Work in Progress!'
+#description:         'Updated 7/21'
 url:                 https://bentonelli.github.io/
 baseurl:             ''
 paginate:            5
