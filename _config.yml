@@ -1,8 +1,8 @@
 # Setup
-title:               ""
-tagline:             ''
+title:               Ben Tonelli's Personal Website
+tagline:             'A Work in Progress!'
 description:         'Updated 7/21'
-url:                 https://bentonelli.github.io/About
+url:                 https://bentonelli.github.io/
 baseurl:             ''
 paginate:            5
 permalink:           pretty

@@ -9,7 +9,7 @@ I am a PhD student at UCLA in the Ecology and Evolutionary Biology department, w
 
 Outside of work, I love running, baking, and generally doing stuff outdoors.
 
-<img src="/uclalogo.jpg" />
+<img src="/uclalogo.jpeg" />
 
 You can contact me at btonelli (at) ucla (dot) edu
 
