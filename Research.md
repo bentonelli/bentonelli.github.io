@@ -14,10 +14,16 @@ Modeling Migratory Movement
 
 Researching questions that rely on understanding the movement of individual migratory birds is difficult because of the incredible diversity of migratory behavior across and within species. One of my projects is focused on creating individual-based models to simulate the movement of birds across time and space. These computational models can then be used to investigate applied questions - like predicting where ticks that attach to birds are likely to be <a href="https://www.sciencedirect.com/science/article/pii/S1877959X18302632">dispersed</a>.
 
-<img src="/MIBM_VATH_vid_3_15.gif" />
+<figure>
+  <img src="/MIBM_VATH_vid_3_15.gif" style="width:100%" />
+</figure>
 
 <h2>
 Understanding the Causes of Avian Vagrancy
 </h2>
 
 Vagrant birds are individuals that are rare in either time or space. These birds often attract a lot of attention from the birdwatchers of the world, and can even attract <a href="https://www.audubon.org/news/a-vagrant-european-robin-drawing-huge-crowds-china">media coverage</a>! Mystery surrounds what causes these birds to end up so far from their normal ranges. I investigate what the causes of this phenomenon may be, as well as the potential ecological consequences.
+<figure>
+  <img src="/robin_in_china.jpeg" style="width:100%"/>
+  <figcaption>What happens when a European Robin shows up in China!</figcaption>
+</figure>
