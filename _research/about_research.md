@@ -1,4 +1,6 @@
 ---
+permalink: /research/about_research
+collection: research
 layout: page
 title: Research
 ---
