@@ -7,6 +7,8 @@ tags:
   - Hoffman 2
   - computing
 ---
+Written by me and Casey Youngflesh
+
 ## Overview
 This guide will provide you with the tools to kickstart your High
 Performance Computing (HPC) journey. The purpose is not to make you an
