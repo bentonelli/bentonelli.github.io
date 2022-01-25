@@ -13,3 +13,7 @@ I am a PhD student in the <a href="https://www.morgantingley.com/">Tingley Lab</
 Outside of work, I love running, baking, birding, backpacking and generally doing stuff outdoors.
 
 You can contact me at btonelli (at) ucla (dot) edu
+
+<figure>
+  <img src="/about_pic.jpeg" align="center" style="width:80%"/>
+</figure>
