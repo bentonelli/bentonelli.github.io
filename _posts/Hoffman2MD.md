@@ -54,7 +54,7 @@ line. If you don’t know what a secure shell is, don’t worry, that will
 be covered! After connecting, you can then interact with the cluster to
 run your scripts.
 
-![](images/cluster_diagram.png)
+![](/images/cluster_diagram.png)
 
 ### What ways can the cluster help me?
 
@@ -69,7 +69,7 @@ These types of tasks (like running a Bayesian model with lots of data)
 may not be able to be easily sped up, but will allow you to use your own
 personal computer while the cluster does all the work.
 
-![](images/dog_cluster.jpg)
+![](/images/dog_cluster.jpg)
 
 ## So how do I start with Hoffman2?
 
