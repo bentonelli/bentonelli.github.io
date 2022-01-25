@@ -1,3 +1,12 @@
+---
+title: 'An Intro to R on Hoffman2'
+date: 2021-01-22
+permalink: /posts/2022/01/hoffman2_basics/
+tags:
+  - Hoffman 2
+  - computing
+---
+
 ## Overview
 
 This guide will provide you with the tools to kickstart your High
