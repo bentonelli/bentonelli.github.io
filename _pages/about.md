@@ -15,5 +15,5 @@ Outside of work, I love running, baking, birding, backpacking and generally doin
 You can contact me at btonelli (at) ucla (dot) edu
 
 <figure>
-  <img src="/about_pic.png" align="center" style="width:80%"/>
+  <img src="/about_pic.png" align="center" style="width:100%"/>
 </figure>
