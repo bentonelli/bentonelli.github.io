@@ -1,5 +1,6 @@
 ---
 title: 'An Intro to Hoffman2 with R'
+authors: Ben Tonelli and Casey Youngflesh
 date: 2022-01-25
 permalink: /posts/2022/01/hoffman2_basics/
 tags:
