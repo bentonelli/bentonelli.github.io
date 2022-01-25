@@ -1,9 +1,8 @@
 ---
 title: 'An Intro to Hoffman2 with R'
-date: 2022-01-22
+date: 2022-01-25
 permalink: /posts/2022/01/hoffman2_basics/
-excerpt: This guide will provide you with the tools to kickstart your High
-Performance Computing (HPC) journey.
+excerpt:
 tags:
   - Hoffman 2
   - computing
