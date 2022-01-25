@@ -1,5 +1,5 @@
 ---
-title: 'An Intro to R on Hoffman2'
+title: 'An Intro to Hoffman2 using R'
 date: 2021-01-22
 permalink: /posts/2022/01/hoffman2_basics/
 tags:
