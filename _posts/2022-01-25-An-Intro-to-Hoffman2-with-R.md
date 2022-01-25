@@ -2,7 +2,6 @@
 title: 'An Intro to Hoffman2 with R'
 date: 2022-01-25
 permalink: /posts/2022/01/hoffman2_basics/
-excerpt:
 tags:
   - Hoffman 2
   - computing
@@ -94,12 +93,12 @@ you get the hang of it! How you implement SSH will depend on your
 operating system (e.g., Windows, MacOS), though the rest of the steps
 should be the same.
 
-#### Step 2a:
+### Step 2a:
 
 For Windows: Download [PuTTY](https://www.putty.org/) For Mac: Open
 Terminal (can be found in the `Applications/` folder)
 
-#### Step 2b:
+### Step 2b:
 
 -  At the command line prompt, type in “ssh”, space, your Hoffman2 username, then the “address” of the cluster. It’ll look something like:
 
@@ -109,7 +108,7 @@ ssh <USERNAME@hoffman2.idre.ucla.edu>
 
 -  Once you’re in, you’ll get a message welcoming you to the Hoffman2 Cluster. You did it!
 
-#### Step 3: Accessing your files
+### Step 3: Accessing your files
 
 When you register for a Hoffman2 account, you will have a designated
 space on the cluster. You can think of this like hard drive space. This
@@ -139,7 +138,7 @@ To get Cyberduck set up, navigate to the website:
 Once you are in, you should see your home directory. You can then start
 dragging and dropping like crazy.
 
-#### Step 4: Using Hoffman2 to run scripts
+### Step 4: Using Hoffman2 to run scripts
 
 Running scripts on Hoffman2 can be done in a variety of ways. Which
 approach you decide to use will depend on what type of task you are
@@ -154,7 +153,7 @@ The [Hoffman2 documentation page](https://www.hoffman2.idre.ucla.edu/)
 has a wide range of examples, but some of the basic ways are explored
 below:
 
-##### Method 1) submit.sh -\> example.R
+#### Method 1) submit.sh -\> example.R
 
 One of the easier ways to run a script is by submitting a “batch job”.
 To do this, we will create and run a submission script. In this way, we
@@ -173,7 +172,7 @@ on the cluster.
 Regardless of the method for running jobs on the cluster, you will need
 to request resources, which brings us to…
 
-#### Computational Resources Interlude
+### Computational Resources Interlude
 
 Because you aren’t using your personal computer to run your script, you
 need to tell the cluster how much memory, how many cores, and how much
@@ -210,7 +209,7 @@ request. Yes, this is an extra step, but the last thing you want is to
 wait 3 days for your task to start running, only to have it fail within
 10 seconds because you didn’t request enough memory!
 
-##### Method 2) Run R directly using an interactive session
+### Method 2) Run R directly using an interactive session
 
 This option can be helpful to run scripts that may not take a very long
 time, scripts where you need to interact with the results (exploratory
@@ -236,7 +235,7 @@ srun –partition=general –qos=general –mem=5G –pty bash
     working directory will be your home directory (named with your user
     name).
 
-##### Method 3) Run an R script a bunch of times
+### Method 3) Run an R script a bunch of times
 
 When you want to execute a job that needs to run multiple times, like
 running a bunch of simulations, you can create a “array script,” example
@@ -246,7 +245,7 @@ tell the cluster to run your script a certain number of times. Remember:
 you need to make sure your .R script spits out a .csv, .rds, or other
 file type for your results to be saved.
 
-### Conclusion
+## Conclusion
 
 That’s it! Hopefully this guide was a gentle introduction to using R on
 the Hoffman2 cluster. Feel free to share with others, and let us know if
