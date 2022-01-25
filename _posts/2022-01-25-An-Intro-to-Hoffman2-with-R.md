@@ -102,14 +102,13 @@ Terminal (can be found in the `Applications/` folder)
 
 #### Step 2b:
 
-At the command line prompt, type in “ssh”, space, your Hoffman2
-username, then the “address” of the cluster. It’ll look something like:
+-  At the command line prompt, type in “ssh”, space, your Hoffman2 username, then the “address” of the cluster. It’ll look something like:
+
 ssh <USERNAME@hoffman2.idre.ucla.edu>
 
-Press Enter, and then type in you password when prompted.
+-  Press Enter, and then type in you password when prompted.
 
-Once you’re in, you’ll get a message welcoming you to the Hoffman2
-Cluster. You did it!
+-  Once you’re in, you’ll get a message welcoming you to the Hoffman2 Cluster. You did it!
 
 #### Step 3: Accessing your files
 
@@ -132,11 +131,11 @@ of, Hoffman2. Handy!
 To get Cyberduck set up, navigate to the website:
 **<https://cyberduck.io/>** and follow the instructions to download.
 
-Open Cyberduck on your computer, click “Open Connection”, choose the
-SFTP protocol, and enter:
+-  Open Cyberduck on your computer, click “Open Connection”, choose the SFTP protocol, and enter:
 
-Server: hoffman2.idre.ucla.edu Username: your username (same as above)
-Password: your password
+-  Server: hoffman2.idre.ucla.edu
+-  Username: your username (same as above)
+-  Password: your password
 
 Once you are in, you should see your home directory. You can then start
 dragging and dropping like crazy.
