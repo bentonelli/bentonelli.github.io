@@ -2,6 +2,7 @@
 title: "An R-focused Guide to Hoffman2"
 author: "Ben Tonelli & Casey Youngflesh"
 subtitle: 'Last updated: 1/2022'
+permalink: /posts/2012/08/hoffman2_intro/
 date: 2022-01-25
 output:
   html_document:
