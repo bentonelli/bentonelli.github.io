@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Tonelli BA**, Dearborn DC. 2019.  An individual-based model for the dispersal of Ixodes scapularis by ovenbirds and wood thrushes during fall migration.  Ticks and Tick-borne Diseases 10:1096-1104[Download](http://bentonelli.github.io/files/T_D_2018.pdf)
+**Tonelli BA**, Dearborn DC. 2019.  An individual-based model for the dispersal of Ixodes scapularis by ovenbirds and wood thrushes during fall migration.  Ticks and Tick-borne Diseases 10:1096-1104 [Download](http://bentonelli.github.io/files/T_D_2018.pdf)
 
 DuComb, E. A., B. A. Tonelli, Y. Tuo, B. F. Cole, V. Mori, J. H. T. Bates, G. R. Washko, R. San José Estépar, and C. M. Kinsey. 2020. Evidence for Expanding Invasive Mediastinal Staging for Peripheral T1 Lung Tumors. Chest 158:2192–2199.
 
