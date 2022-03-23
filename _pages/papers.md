@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+**Tonelli BA**, C Youngflesh, MW Tingley. Geomagnetic disturbance associated with increased vagrancy in migratory landbirds. In review
 
 **Tonelli BA**, Dearborn DC. 2019.  An individual-based model for the dispersal of Ixodes scapularis by ovenbirds and wood thrushes during fall migration.  Ticks and Tick-borne Diseases 10:1096-1104 [Download](http://bentonelli.github.io/files/T_D_2018.pdf)
 
