@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 This forecast uses current conditions to predict the appearance of vagrant birds.
 
-Access the latest Rare Bird Forecast [HERE](http://bentonelli.github.io/test_db.html){target="_blank"}
+Access the latest Rare Bird Forecast [HERE](http://bentonelli.github.io/vagr_db.html){target="_blank"}
