@@ -18,6 +18,9 @@ main:
   - title: "Posts"
     url: /year-archive/
 
+  - title: "Rare Bird Forecast"
+    url: /rarebirdforecast/
+
   #- title: "CV"
   #  url: /cv/
 
