@@ -18,8 +18,8 @@ main:
   - title: "Posts"
     url: /year-archive/
 
-  - title: "Rare Bird Forecast BETA"
-    url: /rarebirdforecast/
+  #- title: "Rare Bird Forecast BETA"
+  #  url: /rarebirdforecast/
 
   #- title: "CV"
   #  url: /cv/
