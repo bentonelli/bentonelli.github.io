@@ -15,9 +15,7 @@ Migratory Birds and Disease
 
 Climate change and land-use change are both responsible for an increasing risk of disease in both wildlife and human populations. My research investigates the impact of both of these factors on the disease ecology of the Pine Siskin, a small songbird normally found at high latitudes and high elevations. Irregularly, this species exhibits irruptions, where large numbers of individuals migrate to low latitudes and elevations in response to poor environmental conditions. Often, outbreaks of disease among birds, domesticated animals and humans occur during these irruptions – particularly Salmonellosis – likely because irruptions concentrate large numbers of immunologically-stressed birds into small, urbanized habitats. This research, funded by a NASA FINESST fellowship, will investigate the environmental drivers of irruptions and the impact of urbanization on disease outbreaks. In the future, this research could help develop tools to predict outbreaks among birds, livestock and humans.
 
-<figure>
-  <img src="/siskin.jpg" style="float: right; margin-left: 15px; width:25%;" />
-</figure>
+<div style="text-align: right; width=25%;"><img src="siskin.jpg" alt="Siskin"></div>
 
 <h2>
 Modeling Migratory Movement
