@@ -29,7 +29,7 @@ Modeling Migratory Movement
 Researching questions that rely on understanding the movement of individual migratory birds is difficult because of the incredible diversity of migratory behavior across and within species. One of my projects is focused on creating individual-based models to simulate the movement of birds across time and space. These computational models can then be used to investigate applied questions - like predicting where ticks that attach to birds are likely to be <a href="https://www.sciencedirect.com/science/article/pii/S1877959X18302632">dispersed</a>. Guess what species is modeled below!
 
 <figure>
-  <img src="/woth.gif" align="center" style="width:75%" />
+  <img src="/ccsp4.gif" align="center" style="width:75%" />
 </figure>
 
 <h2>
