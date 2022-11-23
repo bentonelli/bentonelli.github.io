@@ -219,10 +219,12 @@ and that gets you to \~50%! Those are pretty reasonable odds!
 
 Additionally, if you think of all those hours you are going to spend
 tirelessly working on each proposal as a lottery ticket, where the
-expected value of each hour is determined as the (total award amount) \*
-% Selected / \# Hours. Plugging in the FINESST numbers and 100 hours of
-grant prep work results in an expected value of $225 an hour! Where else
-are you going to make that kind of money!?
+expected value of each hour is determined as:
+(*T**o**t**a**l*.*A**w**a**r**d*.*A**m**o**u**n**t*\**P**e**r**c*.*S**e**l**e**c**t**e**d*)/*H**o**u**r**s*
+
+Plugging in the FINESST numbers and 100 hours of grant prep work results
+in an expected value of $225 an hour! Where else are you going to make
+that kind of money!?
 
 So, I hope this all proves motivating! If you have anything you would
 like me to add to this post, send me an email at btonelli (at) ucla
