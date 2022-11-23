@@ -211,7 +211,7 @@ research, etc.
 As I’ve come to see it, the GRFP and the FINESST are both, to some
 degree, a crapshoot. Depending on how you look at it, this can be either
 discouraging or comforting. Personally, I think it’s comforting because
-*math* paints a more optimistic picture. If you are like me, and you
+\*math\* paints a more optimistic picture. If you are like me, and you
 applied (and were rejected) twice for the GRFP and once for FINESST, you
 have a 15% chance each time of getting funded, AND a \~40% chance of
 getting funded on at least 1 of those proposals. Apply twice to FINESST
