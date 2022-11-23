@@ -1,3 +1,6 @@
+---
+title: An Earth Scientist's Guide to NASA FINESST
+---
 ### Introduction
 
 *If you’ve never heard of the NASA Future Investigators in NASA Earth
