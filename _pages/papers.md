@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-Neate-Clegg, MHC, **BA Tonelli**, C Youngflesh, JX Wu, GA Montgomery, ÇH Şekercioğlu, MW Tingley. What is an urban bird? Trait-based predictions of urban tolerance for the world’s birds are modulated by latitude and human population density. Preprint available on bioRxiv DOI: 10.1101/2022.10.28.514262
+**Tonelli BA**, C Youngflesh, MW Tingley. Geomagnetic disturbance associated with increased vagrancy in migratory landbirds. Accepted at Scientific Reports.
 
-**Tonelli BA**, C Youngflesh, MW Tingley. Geomagnetic disturbance associated with increased vagrancy in migratory landbirds. In review
+Neate-Clegg, MHC, **BA Tonelli**, C Youngflesh, JX Wu, GA Montgomery, ÇH Şekercioğlu, MW Tingley. What is an urban bird? Trait-based predictions of urban tolerance for the world’s birds are modulated by latitude and human population density. Preprint available on bioRxiv DOI: 10.1101/2022.10.28.514262
 
 **Tonelli BA**, Dearborn DC. 2019.  An individual-based model for the dispersal of Ixodes scapularis by ovenbirds and wood thrushes during fall migration.  Ticks and Tick-borne Diseases 10:1096-1104 [Download](http://bentonelli.github.io/files/T_D_2018.pdf)
 
