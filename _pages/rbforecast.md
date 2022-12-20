@@ -16,7 +16,7 @@ In the meantime, you can check out historical forecasts:
 
 2022 - [Fall](http://bentonelli.github.io/vagr_historical_f_22.html)
 2022 - [Spring](http://bentonelli.github.io/vagr_historical_s_22.html)
-
+ 
 2021 - [Fall](http://bentonelli.github.io/vagr_historical_f_21.html)
 2021 - [Spring](http://bentonelli.github.io/vagr_historical_s_21.html)
 
