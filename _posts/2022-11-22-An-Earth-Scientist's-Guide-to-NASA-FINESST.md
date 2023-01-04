@@ -220,7 +220,8 @@ and that gets you to \~50%! Those are pretty reasonable odds!
 Additionally, if you think of all those hours you are going to spend
 tirelessly working on each proposal as a lottery ticket, where the
 expected value of each hour is determined as:
-$$(Total.Award.Amount \* Perc.Selected) \over Hours.of.Work$$
+
+$$(Total.Award.Amount * Perc.Selected) \over Hours.of.Work$$
 
 Plugging in the FINESST numbers and 100 hours of grant prep work results
 in an expected value of $225 an hour! Where else are you going to make
