@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-**Tonelli BA**, C Youngflesh, MW Tingley. Geomagnetic disturbance associated with increased vagrancy in migratory landbirds. Accepted at Scientific Reports.
+**Tonelli BA**, C Youngflesh, MW Tingley. 2023. Geomagnetic disturbance associated with increased vagrancy in migratory landbirds. Scientific Reports 13:414.[Open Access](https://www.nature.com/articles/s41598-022-26586-0)
 
 Neate-Clegg, MHC, **BA Tonelli**, C Youngflesh, JX Wu, GA Montgomery, ÇH Şekercioğlu, MW Tingley. What is an urban bird? Trait-based predictions of urban tolerance for the world’s birds are modulated by latitude and human population density. Preprint available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.10.28.514262v1)
 
