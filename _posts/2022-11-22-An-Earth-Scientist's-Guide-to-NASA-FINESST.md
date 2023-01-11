@@ -240,4 +240,4 @@ NASA Strategic Plan:
 [here](https://www.nasa.gov/sites/default/files/atoms/files/fy_22_strategic_plan.pdf)
 
 An Example Proposal:
-[here](http://bentonelli.github.io/files/Tonelli_Science_FINESST.pdf)
+[here](http://bentonelli.github.io/Tonelli_Science_FINESST.pdf)
