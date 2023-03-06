@@ -20,4 +20,6 @@ In the meantime, you can check out historical forecasts:
 2021 - [Fall](http://bentonelli.github.io/vagr_historical_f_21.html)
 2021 - [Spring](http://bentonelli.github.io/vagr_historical_s_21.html)
 
+Access the latest Rare Bird Forecast [HERE](http://bentonelli.github.io/vagr_db.html)
+
 [//]: #Access the latest Rare Bird Forecast [HERE](http://bentonelli.github.io/vagr_db.html)
