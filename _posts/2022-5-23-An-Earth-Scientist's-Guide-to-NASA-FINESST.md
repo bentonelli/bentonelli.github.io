@@ -11,6 +11,8 @@ potential source of funding for graduate students in a broad range of
 fields, including (surprisingly!) biology. This post is tailored for
 non-rocket scientists (get it?), e.g. biologists and ecologists.*
 
+*Last updated: May, 2023
+
 The FINESST program is comparable to the NSF Graduate Student Research
 Fellowship Program (GRFP) in that it funds 3 years of graduate school
 with an associated value of 50k per year. The selection rate of both
@@ -107,6 +109,11 @@ ecology and related fields could see their research fit into these
 objectives. If the above points don’t immediately stand out as related
 to what you do, I would encourage you to check out both the solicitation
 and the Strategic Plan. There’s a lot more in there.
+
+Beyond what's in the solicitation, it seems like NASA is really 
+interested in projects that relate to forecasting/prediction, the 
+creation of products/software, and that have clear 
+applications/stakeholders.
 
 ### Important! Using NASA data:
 
@@ -212,10 +219,10 @@ As I’ve come to see it, the GRFP and the FINESST are both, to some
 degree, a crapshoot. Depending on how you look at it, this can be either
 discouraging or comforting. Personally, I think it’s comforting because
 \*math\* paints a more optimistic picture. If you are like me, and you
-applied (and were rejected) twice for the GRFP and once for FINESST, you
-have a 15% chance each time of getting funded, AND a \~40% chance of
-getting funded on at least 1 of those proposals. Apply twice to FINESST
-and that gets you to \~50%! Those are pretty reasonable odds!
+applied twice for the GRFP and once for FINESST, you have a 15% chance 
+each time of getting funded, AND a \~40% chance of getting funded on at 
+least 1 of those proposals. Apply twice to FINESST and that gets you to 
+\~50%! Those are pretty reasonable odds!
 
 Additionally, if you think of all those hours you are going to spend
 tirelessly working on each proposal as a lottery ticket, where the
