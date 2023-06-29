@@ -8,9 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+**Tonelli BA**, AE Zelin,DC Dearborn, MW Tingley. Individual-based Models of Avian Migration for Estimating Behavioral Traits and Predicting Ecological Interactions. In Review.
+
 **Tonelli BA**, C Youngflesh, MW Tingley. 2023. Geomagnetic disturbance associated with increased vagrancy in migratory landbirds. Scientific Reports 13:414.[Open Access](https://www.nature.com/articles/s41598-022-26586-0)
 
-Neate-Clegg, MHC, **BA Tonelli**, C Youngflesh, JX Wu, GA Montgomery, ÇH Şekercioğlu, MW Tingley. What is an urban bird? Trait-based predictions of urban tolerance for the world’s birds are modulated by latitude and human population density.[Current Biology](https://www.sciencedirect.com/science/article/pii/S0960982223003123). 
+Neate-Clegg, MHC, **BA Tonelli**, C Youngflesh, JX Wu, GA Montgomery, ÇH Şekercioğlu, MW Tingley. 2023. What is an urban bird? Trait-based predictions of urban tolerance for the world’s birds are modulated by latitude and human population density.[Current Biology](https://www.sciencedirect.com/science/article/pii/S0960982223003123). 
 
 **Tonelli BA**, Dearborn DC. 2019.  An individual-based model for the dispersal of Ixodes scapularis by ovenbirds and wood thrushes during fall migration.  Ticks and Tick-borne Diseases 10:1096-1104 [Download](http://bentonelli.github.io/files/T_D_2018.pdf)
 
