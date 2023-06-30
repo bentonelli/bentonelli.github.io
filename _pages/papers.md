@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-**Tonelli BA**, AE Zelin,DC Dearborn, MW Tingley. Individual-based Models of Avian Migration for Estimating Behavioral Traits and Predicting Ecological Interactions. In Review.
+**Tonelli BA**, AE Zelin, DC Dearborn, MW Tingley. Individual-based Models of Avian Migration for Estimating Behavioral Traits and Predicting Ecological Interactions. In review.
 
 **Tonelli BA**, C Youngflesh, MW Tingley. 2023. Geomagnetic disturbance associated with increased vagrancy in migratory landbirds. Scientific Reports 13:414.[Open Access](https://www.nature.com/articles/s41598-022-26586-0)
 
