@@ -34,7 +34,7 @@ Researching questions that rely on understanding the movement of individual migr
 Understanding the Causes of Avian Vagrancy
 </h2>
 
-Vagrant birds are individuals that are rare in either time or space. These birds often attract a lot of attention from the birdwatchers of the world. Mystery surrounds what causes these birds to end up so far from their normal ranges. We <a href="https://www.nature.com/articles/s41598-022-26586-0">found</a> that these events are associated with disruptions to the Earth's magnetic field, likely through interfering with the ability of birds to navigate using magnetoreception.
+Vagrant birds are individuals that are rare in either time or space. These birds often attract a lot of attention from the birdwatchers of the world. Mystery surrounds what causes these birds to end up so far from their normal ranges. We <a href="https://www.nature.com/articles/s41598-022-26586-0">found</a> that these events are associated with disruptions to the Earth's magnetic field, likely through interfering with the ability of birds to navigate using magnetoreception. You can read more about this research <a href="https://www.audubon.org/news/when-birds-get-lost-space-storms-may-be-blame">here</a>.
 
 <figure>
   <img src="/vagr_gmd.png" align="center" style="width:65%"/>
