@@ -24,7 +24,7 @@ Often, outbreaks of disease among birds, domesticated animals and humans occur d
 Modeling Migratory Movement
 </h2>
 
-Researching questions that rely on understanding the movement of individual migratory birds is difficult because of the incredible diversity of migratory behavior across and within species. One of my projects is focused on creating individual-based models to simulate the movement of birds across time and space. These computational models can then be used to investigate applied questions - like predicting where ticks that attach to birds are likely to be <a href="https://www.sciencedirect.com/science/article/pii/S1877959X18302632">dispersed</a>. Guess what species is modeled here!
+Researching questions that rely on understanding the movement of individual migratory birds is difficult because of the incredible diversity of migratory behavior across and within species. One of my projects (you can read the paper <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14189">here</a>) is focused on creating and improving individual-based models to simulate the movement of birds across time and space. These computational models can then be used to investigate applied questions - like predicting where ticks that attach to birds are likely to be <a href="https://www.sciencedirect.com/science/article/pii/S1877959X18302632">dispersed</a>. Guess what species is modeled here!
 
 <figure>
   <img src="/ccsp4.gif" align="center" style="width:75%" />
