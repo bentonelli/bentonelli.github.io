@@ -21,6 +21,16 @@ Often, outbreaks of disease among birds, domesticated animals and humans occur d
 </div>
 
 <h2>
+Understanding Climate Change's Impact of Migratory Timing
+</h2>
+
+Decades of research has shown that birds are shifting the timing of their seasonal events to keep up with warmer temperatures and earlier springs. Understanding how birds are adapting is critical to predicting how birds with fare in a rapidly warming world. One of my projects looks at how shifting weather patterns differentially impacts bird species across North America.
+
+<figure>
+  <img src="/ccsp4.gif" align="center" style="width:75%" />
+</figure>
+
+<h2>
 Modeling Migratory Movement
 </h2>
 
