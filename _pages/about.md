@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the <a href="https://www.morgantingley.com/">Tingley Lab</a> in the Ecology and Evolutionary Biology department at UCLA. My research uses big data to understand bird migration, and spefically how species and populations are responding to global change - check out the "Research" page for more!
+I am a PhD candidate in the <a href="https://www.morgantingley.com/">Tingley Lab</a> in the Ecology and Evolutionary Biology department at UCLA. My research uses big data to understand bird migration, and specifically how species and populations are responding to global change. Check out the "Research" page for more!
 
-Outside of work, I love running, baking, birding, backpacking and gardening.
+Outside of work, I like to run, bake/cook, and generally spend time outdoors.
 
 You can contact me at btonelli (at) ucla (dot) edu
 
