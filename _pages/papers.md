@@ -12,7 +12,7 @@ redirect_from:
 
 **Tonelli BA**, C Youngflesh, MW Tingley. 2023. Geomagnetic disturbance associated with increased vagrancy in migratory landbirds. *Scientific Reports* 13:414.[Open Access](https://www.nature.com/articles/s41598-022-26586-0)
 
-Covered in [Smithsonian](https://www.smithsonianmag.com/science-nature/one-reason-migrating-birds-get-lost-is-out-of-this-world-180983301/) [Audubon](https://www.audubon.org/news/when-birds-get-lost-space-storms-may-be-blame) [Newsweek](https://www.newsweek.com/space-weather-geomagnetic-storms-migrating-birds-navigation-1833899) [Living Bird Magazine](https://www.allaboutbirds.org/news/geomagnetic-disturbances-and-wrong-way-bird-migrations/#) [CTV](https://www.ctvnews.ca/sci-tech/new-study-sheds-light-on-what-may-be-throwing-some-migratory-birds-off-course-1.6237943)
+Covered in [Smithsonian](https://www.smithsonianmag.com/science-nature/one-reason-migrating-birds-get-lost-is-out-of-this-world-180983301/), [Audubon](https://www.audubon.org/news/when-birds-get-lost-space-storms-may-be-blame), [Newsweek](https://www.newsweek.com/space-weather-geomagnetic-storms-migrating-birds-navigation-1833899), [Living Bird Magazine](https://www.allaboutbirds.org/news/geomagnetic-disturbances-and-wrong-way-bird-migrations/#), [CTV](https://www.ctvnews.ca/sci-tech/new-study-sheds-light-on-what-may-be-throwing-some-migratory-birds-off-course-1.6237943)
 
 Neate-Clegg, MHC, **BA Tonelli**, C Youngflesh, JX Wu, GA Montgomery, ÇH Şekercioğlu, MW Tingley. 2023. What is an urban bird? Trait-based predictions of urban tolerance for the world’s birds are modulated by latitude and human population density. *Current Biology* 33:9.[Link](https://www.sciencedirect.com/science/article/pii/S0960982223003123). 
 
