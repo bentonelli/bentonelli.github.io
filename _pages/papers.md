@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-<!--**Tonelli BA**, C Youngflesh, T Cox,MHC Neate-Clegg, EC Cohen, MW Tingley. Spatial nonstationarity in phenological responses of North American birds to climate variability. *In review*-->
+**Tonelli BA**, C Youngflesh, T Cox,MHC Neate-Clegg, EC Cohen, MW Tingley. Spatial nonstationarity in phenological responses of North American birds to climate variability. *In review* 
+
 **Tonelli BA**, AE Zelin, DC Dearborn, MW Tingley. 2023. Individual-based Models of Avian Migration for Estimating Behavioral Traits and Predicting Ecological Interactions. *Methods in Ecology and Evolution*. [Open Access](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14189)
 
 **Tonelli BA**, C Youngflesh, MW Tingley. 2023. Geomagnetic disturbance associated with increased vagrancy in migratory landbirds. *Scientific Reports* 13:414.[Open Access](https://www.nature.com/articles/s41598-022-26586-0)
