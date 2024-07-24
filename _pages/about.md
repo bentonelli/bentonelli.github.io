@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD candidate in the <a href="https://www.morgantingley.com/">Tingley Lab</a> in the Ecology and Evolutionary Biology department at UCLA. My research uses big data to understand bird migration, and specifically how species and populations are responding to global change. Check out the "Research" page for more!
 
-In my research, I like to try to make cool visualizations like the one below. You can read more about what this one is about <a href="https://www.bentonelli.github.io/Bird-Names-For-Birds-a-Map/">here</a>.
+In my research, I like to try to make cool visualizations like the one below. You can read more about what this one is about <a href="www.bentonelli.github.io/Bird-Names-For-Birds-a-Map/">here</a>.
 
 <figure>
   <img src="/bnfb_summer.png" align="center" style="width:100%"/>
