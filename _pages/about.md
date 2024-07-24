@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the <a href="https://www.morgantingley.com/">Tingley Lab</a> in the Ecology and Evolutionary Biology department at UCLA. My research uses big data to understand bird migration, and specifically how species and populations are responding to global change. Check out the "Research" page for more!
+I am a PhD candidate in the <a href="https://www.morgantingley.com/">Tingley Lab</a> in the Ecology and Evolutionary Biology department at UCLA. My research uses ecological big data to understand how migratory birds are responding to global change. Specifically, I'm interested in understanding how changes to bird migration may impact disease dynamics in wildlife and human populations. Check out the "Research" page for more!
 
-In my research, I like to try to make cool visualizations like the one below. You can read more about what this one is about <a href="www.bentonelli.github.io/Bird-Names-For-Birds-a-Map/">here</a>.
+I try to focus on making my work accesible to non-scientists through the use of "products" like the <a href="https://bentonelli.github.io/rarebirdforecast/">Rare Bird Forecast</a> (a dashboard that predicts avian vagrancy), the <a href="forms.gle/aq12BztcyijTAgE9A"> Early Bird Forecast</a> (a weekly email sent out during spring migratiton season that predicts what birds will arrive in your area), and <a href="bentonelli.github.io/botw/">Bird of the Week</a>(this is exactly what it sounds like), plus cool visualizations like the one below. You can read more about what this specific one is about <a href="www.bentonelli.github.io/Bird-Names-For-Birds-a-Map/">here</a>!
 
 <figure>
   <img src="/bnfb_summer.png" align="center" style="width:100%"/>
