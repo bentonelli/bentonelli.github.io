@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[//]::Access the latest Rare Bird Forecast [HERE](http://bentonelli.github.io/vagr_db.html)
+Access the latest Rare Bird Forecast [HERE](http://bentonelli.github.io/vagr_db.html)
 
-The Rare Bird Forecast is currently hibernating for the summer. You can sign up to get an email notifiying you when it is back online by clicking [HERE](https://forms.gle/ydVA9uBCN3M1idFW9). In the meantime, you can check out historical forecasts below.
+[//]::The Rare Bird Forecast is currently hibernating for the summer. You can sign up to get an email notifiying you when it is back online by clicking [HERE](https://forms.gle/ydVA9uBCN3M1idFW9). In the meantime, you can check out historical forecasts below.
 
 This forecast uses current geomagnetic conditions (and some other stuff) to predict the appearance of vagrant birds during the spring and fall migration seasons. You can read more about the methodology in [Tonelli et al, 2023](https://www.nature.com/articles/s41598-022-26586-0). If you are interested, check out this [recent paper](https://www.pnas.org/doi/10.1073/pnas.2306317120) on the same phenomenon, measured via radar.
 
