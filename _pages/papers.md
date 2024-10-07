@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-**Tonelli, B.A.**, Youngflesh, C., Cox, T., Neate-Clegg, M.H.C., Cohen, E.C., Tingley, M.W. Spatial nonstationarity in phenological responses of North American birds to climate variability. *In press, Ecology Letters* 
+**Tonelli, B.A.**, Youngflesh, C., Cox, T., Neate-Clegg, M.H.C., Cohen, E.C., Tingley, M.W. (2024) Spatial nonstationarity in phenological responses of North American birds to climate variability. *Ecology Letters* . [Link](https://onlinelibrary.wiley.com/doi/10.1111/ele.14526)
 
 Neate-Clegg, M.H.C., **Tonelli B.A.**, Tingley, M.W. (2024) Advances in breeding phenology outpace latitudinal and elevational shifts for North American birds tracking temperature. *Nature Ecology and Evolution*. [Link](https://www.nature.com/articles/s41559-024-02536-z)  
 
