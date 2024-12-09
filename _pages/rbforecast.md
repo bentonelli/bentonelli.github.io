@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Access the latest Rare Bird Forecast [HERE](http://bentonelli.github.io/vagr_db.html)
+[//]:Access the latest Rare Bird Forecast [HERE](http://bentonelli.github.io/vagr_db.html)
 
 The Rare Bird Forecast is currently hibernating for the winter. You can sign up to get an email notifiying you when it is back online by clicking [HERE](https://forms.gle/ydVA9uBCN3M1idFW9). In the meantime, you can check out historical forecasts below.
 
