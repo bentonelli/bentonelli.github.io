@@ -1,22 +1,28 @@
 ---
 title: An Earth Scientist's Guide to NASA FINESST
 ---
+*Last updated: Feb. 3rd, 2025*
+
+### DEI-RELEVANT UPDATES
+
+NASA updated the FINESST call on Jan. 30th, 2025 to respond to the Trump administration's executive orders about DEI language in federal agency programs. I've done my best to read through these changes, and here are some major takeaways. **Main takeaway: not much has changed.** They have removed the word "diversity" throughout the document. Specific changes include: 1) under the Earth Science Research Program (2.1), Earth Action section, the focus area of "Equity and Environmental Justice" has been removed and 2) under the Science Activation and Citizen Science section (2.6), reference to gender studies has been removed. That's pretty much it. 
+
+Personally, if I we're applying again I would be wary of using any of the following words/terms in an application: diversity, equity, inclusion, accesibility, gender, environmental justice, transgenderism, green new deal, social engineering policies, and Marxist equity. As we all know, "Marxist equity" is probably not on your grant application lingo checklist, but for real, those last few are actually in the original OMB memo that was written to stop all federal grant funding (now moot). Given that we all want to, for example, include people in science, it might be worth thinking about some alternative ways of highlighting these ideas. For example, the FINESST call now states the need to "cultivate a variety of communities" rather than "cultivate the diverse communities." It might be best to follow in NASA's footsteps here.
+
 ### Introduction
 
-*If you’ve never heard of the NASA Future Investigators in NASA Earth
+Before we begin, if you’ve never heard of the NASA Future Investigators in NASA Earth
 and Space Science and Technology (FINESST program), I would recommend
 you start with this great guide
 [here](https://michaelradke.com/finesst/). In brief, it’s a great
 potential source of funding for graduate students in a broad range of
 fields, including (surprisingly!) biology. This post is tailored for
-non-rocket scientists (get it?), e.g. biologists and ecologists.*
-
-*Last updated: May, 2023
+non-rocket scientists (get it?), e.g. biologists and ecologists.
 
 The FINESST program is comparable to the NSF Graduate Student Research
 Fellowship Program (GRFP) in that it funds 3 years of graduate school
 with an associated value of 50k per year. The selection rate of both
-programs (\~15%) are also very similar.
+programs (\~15%) are also very similar. The deadline is usually in February (this year, **Feb 26th is the due date**) 
 
 Just looking at these numbers, one might think that the GRFP and FINESST
 should get the same amount of attention, since the expected value of
