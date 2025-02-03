@@ -1,7 +1,7 @@
 ---
 title: An Earth Scientist's Guide to NASA FINESST
 ---
-*Last updated: Feb. 3rd, 2025*
+**Last updated: Feb. 3rd, 2025**
 
 ### DEI-RELEVANT UPDATES
 
