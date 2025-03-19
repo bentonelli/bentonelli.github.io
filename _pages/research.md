@@ -26,6 +26,10 @@ Understanding the Impact of Climate Change on Migratory Timing
 
 Decades of research has shown that birds are shifting the timing of seasonal events like migration and breeding to keep up with warmer temperatures and earlier springs. Understanding how birds are adapting is critical to predicting how birds will fare in a rapidly changing world. One of my projects looks at how shifting weather patterns differentially impacts bird species across North America.
 
+<figure>
+  <img src="/ele_fig.jpg" align="center" style="width:65%" />
+</figure>
+
 <h2>
 Modeling Migratory Movement
 </h2>
