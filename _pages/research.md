@@ -20,13 +20,11 @@ Climate change and land-use change are both responsible for an increasing risk o
 Often, outbreaks of disease among birds, domesticated animals and humans occur during these irruptions – particularly Salmonellosis – likely because irruptions concentrate large numbers of immunologically-stressed birds into small, urbanized habitats. This research, funded by a <a href="https://dailybruin.com/2022/07/23/ucla-doctoral-student-maps-out-future-as-nasa-fellow-studying-bird-migration">NASA FINESST fellowship</a>, will investigate the environmental drivers of irruptions and the impact of urbanization on disease outbreaks. In the future, this research could help develop tools to predict outbreaks among birds, livestock and humans.
 </div>
 
-<div style="text-align: left;">
 <h2>
 Understanding the Impact of Climate Change on Migratory Timing
 </h2>
-<img src="/ele_fig.jpg" align="left" style="width:45%" />
+<img src="/ele_fig.jpg" align="center" style="width:45%" />
 Decades of research has shown that birds are shifting the timing of seasonal events like migration and breeding to keep up with warmer temperatures and earlier springs. Understanding how birds are adapting is critical to predicting how birds will fare in a rapidly changing world. We find that among the 222 bird species, there is wide variation in the degree to which birds are responsive to earlier springs. Check out the paper <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14526">here</a>.
-</div>
 
 <h2>
 Modeling Migratory Movement
