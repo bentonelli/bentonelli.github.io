@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 \* *Authors contributed equally*
 
-**Tonelli, B.A.\***, Wu, J.X. \*, Montgomery, G.A.\* (Accepted) Biomass and abundance trends diverge as the North American avifauna undergoes widespread demographic declines. *Oikos*. 
+**Tonelli, B.A.\***, Wu, J.X. \*, Montgomery, G.A.\* (2025) Biomass and abundance trends diverge as the North American avifauna undergoes widespread demographic declines. *Oikos*. [Link](https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/oik.11480)
 
 **Tonelli, B.A.**, Youngflesh, C., Cox, T., Neate-Clegg, M.H.C., Cohen, E.C., Tingley, M.W. (2024) Spatial nonstationarity in phenological responses of North American birds to climate variability. *Ecology Letters*. [Link](https://onlinelibrary.wiley.com/doi/10.1111/ele.14526)
 
