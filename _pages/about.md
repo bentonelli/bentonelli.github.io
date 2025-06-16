@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the <a href="https://www.morgantingley.com/">Tingley Lab</a> in the Ecology and Evolutionary Biology department at UCLA and a visiting graduate researcher at the University of Vermont in the <a href="https://werl-uvm.mystrikingly.com/">Wildlife Ecology Research Lab</a>. My research uses ecological big data to understand how migratory birds are responding to global change. Specifically, I'm interested in understanding how changes to bird migration may impact disease dynamics in wildlife and human populations. Check out the "Research" page for more!
+I am a Postdoctoral Researcher in the <a href="https://www.youngfleshlab.com/">Youngflesh Lab</a>  at Clemson University and a visiting researcher at the University of Vermont in the <a href="https://werl-uvm.mystrikingly.com/">Wildlife Ecology Research Lab</a>. I recently graduated with my PhD fom the <a href="https://www.morgantingley.com/">Tingley Lab</a> at UCLA. My research uses ecological big data to understand how migratory birds are responding to global change. Specifically, I'm interested in understanding how changes to bird migration may impact disease dynamics in wildlife and human populations. Check out the "Research" page for more!
 
 I try to focus on making my work accesible to a broad audience through the creation of "products" like the <a href="https://bentonelli.github.io/rarebirdforecast/">Rare Bird Forecast</a> (a dashboard that predicts avian vagrancy), the <a href="https://forms.gle/aq12BztcyijTAgE9A"> Early Bird Forecast</a> (a weekly email sent out during spring migration season that predicts what bird species will arrive in your area), the <a href="https://bentonelli.github.io/botw/">Bird of the Week Newsletter</a> (this one is exactly what it sounds like), plus cool visualizations like the one below. You can read more about what this specific one is about <a href="https://bentonelli.github.io/Bird-Names-For-Birds-a-Map/">here</a>!
 
@@ -17,7 +17,7 @@ I try to focus on making my work accesible to a broad audience through the creat
 </figure>
 
 Outside of work, I like to run, bake/cook, and generally spend time outdoors.
-You can contact me at btonelli (at) ucla (dot) edu
+You can contact me at btonell (at) clemson (dot) edu
 
 <figure>
   <img src="/about_pic.png" align="center" style="width:100%"/>
