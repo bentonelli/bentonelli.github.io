@@ -67,8 +67,8 @@ redirect_from:
   <p>Decades of research has shown that birds are shifting the timing of seasonal events like 
   migration and breeding to keep up with warmer temperatures and earlier springs. Understanding 
   how birds are adapting is critical to predicting how birds will fare in a rapidly changing world. 
-  We find that among the 222 bird species, there is wide variation in the degree to which birds are 
-  responsive to earlier springs. Check out the paper 
+  Using data from over 200 species, we find that there is wide variation in the degree to which birds are 
+  responsive to earlier springs. As a result, some birds are expected to show up earlier and earlier as the climate warms, while some species will hardly change the migration timing at all. These species that don't keep up may face increasing demographic consequences. Check out the paper 
   <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14526">here</a>.
   </p>
 
@@ -87,7 +87,7 @@ redirect_from:
 	
   <img src="/vagr_gmd.png" class="section-img-left">
   <h2>Understanding the Causes of Avian Vagrancy</h2>
-  <p>Vagrant birds are individuals that are rare in either time or space. These birds often attract a lot of attention from the birdwatchers of the world. Mystery surrounds what causes these birds to end up so far from their normal ranges. We <a href="https://www.nature.com/articles/s41598-022-26586-0">found</a> that these events are associated with disruptions to the Earth's magnetic field, likely through interfering with the ability of birds to navigate using magnetoreception. You can read more about this research <a href="https://www.audubon.org/news/when-birds-get-lost-space-storms-may-be-blame">here</a>.
+  <p>Vagrant birds are individuals that are rare in either time or space. These birds often attract a lot of attention from the birdwatchers of the world. Mystery surrounds what causes these birds to end up so far from their normal ranges. We <a href="https://www.nature.com/articles/s41598-022-26586-0">found</a> that these events are associated with disruptions to the Earth's magnetic field, likely through interfering with the ability of birds to navigate using magnetoreception. Without an important navigational tool, these birds fly off course and end up far from where they want to be. You can read more about this research <a href="https://www.audubon.org/news/when-birds-get-lost-space-storms-may-be-blame">here</a>.
   </p>
 
 </div>
