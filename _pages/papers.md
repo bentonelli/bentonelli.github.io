@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 \* *Authors contributed equally*
 
-**Tonelli B.A.**, Youngflesh, C., Tingley M.W. (In press) An ecological cascade links climate variability to avian irruptions and zoonotic salmonellosis outbreaks *PNAS* 
+**Tonelli B.A.**, Youngflesh, C., Tingley M.W. (In press) An ecological cascade links climate variability to avian irruptions and zoonotic salmonellosis outbreaks. *PNAS*. 
 
 **Tonelli, B.A.\***, Wu, J.X. \*, Montgomery, G.A.\* (2025) Biomass and abundance trends diverge as the North American avifauna undergoes widespread demographic declines. *Oikos*. [Link](https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/oik.11480)
 
