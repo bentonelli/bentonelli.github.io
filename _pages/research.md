@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<style>
+<style> /* Help fom chatty V5 */
 .section {
   overflow: auto;   /* keeps floats from overlapping the next section */
   margin-bottom: 2.5em;
@@ -18,17 +18,22 @@ redirect_from:
 /* Right-floating image */
 .section-img-right {
   float: right;
-  width: 30%;
-  max-width: 250px;
   margin: 0 0 1em 1em;
 }
 
 /* Left-floating image */
 .section-img-left {
   float: left;
-  width: 30%;
-  max-width: 250px;
   margin: 0 1em 1em 0;
+}
+
+/* Make all images uniform and clean */
+.section-img-right,
+.section-img-left {
+  height: 300px;      /* adjust as needed */
+  width: auto;
+  object-fit: cover;  /* creates uniform look */
+  border-radius: 8px;
 }
 
 /* Mobile behavior: images center, no wrapping */
@@ -39,6 +44,8 @@ redirect_from:
     display: block;
     margin: 1em auto;
     width: 60%;
+    height: auto;     /* for small screens, let images resize naturally */
+    object-fit: contain;
   }
 }
 </style>
