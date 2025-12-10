@@ -30,7 +30,7 @@ redirect_from:
 /* Make all images uniform and clean */
 .section-img-right,
 .section-img-left {
-  height: 300px;      /* adjust as needed */
+  height: 600px;      /* adjust as needed */
   width: auto;
   object-fit: cover;  /* creates uniform look */
   border-radius: 8px;
