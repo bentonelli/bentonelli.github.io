@@ -6,9 +6,10 @@ author_profile: false
 redirect_from:
   - /irruptive_outbreak_forecast
 ---
-
+ 
 **You can access the latest Irruptive Outbreak Forecast
 [HERE](http://bentonelli.github.io/Irr_Salm_Forecast.html)**
+ 
 
 **Forecast Overview**
 
