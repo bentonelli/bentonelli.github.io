@@ -33,7 +33,7 @@ forecast presented here are not 100% certain.
 
 1.  Ruffled feathers, “puffed-up” appearance
 2.  Lethargic, easy to approach, and unwilling to move
-3.  Trouble swallowing, often with
+3.  Trouble swallowing
 4.  Diarrhea
 
 **What to do if you observe an sick/dead bird infected with Salmonella**
