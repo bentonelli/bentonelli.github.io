@@ -7,22 +7,14 @@ main:
   - title: "Papers"
     url: /papers/
 
-  #- title: "Publications"
-  #  url: /publications/
-  #- title: "Talks"
-  #  url: /talks/
-
   - title: "Bird of the Week"
     url: /botw/
 
   - title: "Posts"
     url: /year-archive/
 
-  - title: "Rare Bird Forecast BETA"
+  - title: "Irruptive Outbreak Forecast"
+    url: /irruptive_outbreak_forecast/
+
+  - title: "Rare Bird Forecast"
     url: /rarebirdforecast/
-
-  #- title: "CV"
-  #  url: /cv/
-
-  #- title: "Guide"
-  #  url: /markdown/
