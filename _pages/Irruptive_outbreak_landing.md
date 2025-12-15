@@ -1,20 +1,20 @@
 ---
 layout: archive
-title: "Irruptive Outbreak Forecast"
+title: "Irruptive Outbreak Forecast 2025-2026"
 permalink: /irruptive_outbreak_forecast/
 author_profile: false
 redirect_from:
   - /irruptive_outbreak_forecast
 ---
  
-**You can access the latest Irruptive Outbreak Forecast
+**You can access the latest Irruptive Outbreak Forecast for Winter 2025-2026
 [HERE](http://bentonelli.github.io/Irr_Salm_Forecast.html)**
  
 
 **Forecast Overview**
 
 Our forecast predicts the chances of salmonellosis outbreaks and avian
-irruptions in the upcoming winter season.
+irruptions in the upcoming winter season (November - April).
 
 Although primarily spread among songbirds, salmonellosis outbreaks can
 “spill over” into human populations or to domestic animals.
