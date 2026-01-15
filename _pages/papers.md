@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 \* *Authors contributed equally*
 
-**Tonelli B.A.**, Youngflesh, C., Tingley M.W. (In press) An ecological cascade links climate variability to avian irruptions and zoonotic salmonellosis outbreaks. *PNAS*. 
+**Tonelli B.A.**, Youngflesh, C., Tingley M.W. (2026) An ecological cascade links climate variability to avian irruptions and zoonotic salmonellosis outbreaks. *PNAS*. [Link](https://www.pnas.org/doi/10.1073/pnas.2511209123)
 
 **Tonelli, B.A.\***, Wu, J.X. \*, Montgomery, G.A.\* (2025) Biomass and abundance trends diverge as the North American avifauna undergoes widespread demographic declines. *Oikos*. [Link](https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/oik.11480)
 
@@ -18,15 +18,15 @@ redirect_from:
 
 Neate-Clegg, M.H.C., **Tonelli B.A.**, Tingley, M.W. (2024) Advances in breeding phenology outpace latitudinal and elevational shifts for North American birds tracking temperature. *Nature Ecology and Evolution*. [Link](https://www.nature.com/articles/s41559-024-02536-z)  
 
-**Tonelli B.A.**, Zelin A.E., Dearborn D.C., Tingley M.W. (2023) Individual-based Models of Avian Migration for Estimating Behavioral Traits and Predicting Ecological Interactions. *Methods in Ecology and Evolution*. [Open Access](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14189)
+**Tonelli B.A.**, Zelin A.E., Dearborn D.C., Tingley M.W. (2023) Individual-based Models of Avian Migration for Estimating Behavioral Traits and Predicting Ecological Interactions. *Methods in Ecology and Evolution*. [Link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14189)
 
-**Tonelli B.A.**, Youngflesh, C., Tingley M.W. (2023) Geomagnetic disturbance associated with increased vagrancy in migratory landbirds. *Scientific Reports* 13:414. [Open Access](https://www.nature.com/articles/s41598-022-26586-0)
+**Tonelli B.A.**, Youngflesh, C., Tingley M.W. (2023) Geomagnetic disturbance associated with increased vagrancy in migratory landbirds. *Scientific Reports* 13:414. [Link](https://www.nature.com/articles/s41598-022-26586-0)
 
 Covered in [Smithsonian](https://www.smithsonianmag.com/science-nature/one-reason-migrating-birds-get-lost-is-out-of-this-world-180983301/), [Audubon](https://www.audubon.org/news/when-birds-get-lost-space-storms-may-be-blame), [Newsweek](https://www.newsweek.com/space-weather-geomagnetic-storms-migrating-birds-navigation-1833899), [Living Bird Magazine](https://www.allaboutbirds.org/news/geomagnetic-disturbances-and-wrong-way-bird-migrations/#), [CTV](https://www.ctvnews.ca/sci-tech/new-study-sheds-light-on-what-may-be-throwing-some-migratory-birds-off-course-1.6237943)
 
 Neate-Clegg, M.H.C., **Tonelli B.A.**, Youngflesh, C., Wu, J.X., Montgomery, G.A., Şekercioğlu, Ç.H., Tingley, M.W. (2023) What is an urban bird? Trait-based predictions of urban tolerance for the world’s birds are modulated by latitude and human population density. *Current Biology* 33:9. [Link](https://www.sciencedirect.com/science/article/pii/S0960982223003123). 
 
-**Tonelli B.A.**, Dearborn D.C. (2019) An individual-based model for the dispersal of Ixodes scapularis by ovenbirds and wood thrushes during fall migration. *Ticks and Tick-borne Diseases* 10:1096-1104 [Download](http://bentonelli.github.io/files/T_D_2018.pdf)
+**Tonelli B.A.**, Dearborn D.C. (2019) An individual-based model for the dispersal of Ixodes scapularis by ovenbirds and wood thrushes during fall migration. *Ticks and Tick-borne Diseases* 10:1096-1104 [Link](https://www.sciencedirect.com/science/article/abs/pii/S1877959X18302632)
 
 DuComb, E.A., **Tonelli, B.A.**, Tuo, Y., Cole, B.F., Mori, V., Bates, J.H.T., Washko, G.R., San José Estépar, R., Kinsey,C.M. (2020) Evidence for Expanding Invasive Mediastinal Staging for Peripheral T1 Lung Tumors. *Chest* 158:2192–2199.
 
