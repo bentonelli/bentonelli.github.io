@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 \* *Authors contributed equally*
 
+**Tonelli B.A.**, Youngflesh, C., Tingley M.W. (2026) Demography and dispersion: evaluating the causes and consequences of vagrancy in North American migratory birds. *Proceedings B*. Accepted.
+
 **Tonelli B.A.**, Youngflesh, C., Tingley M.W. (2026) An ecological cascade links climate variability to avian irruptions and zoonotic salmonellosis outbreaks. *PNAS*. [Link](https://www.pnas.org/doi/10.1073/pnas.2511209123)
 
 **Tonelli, B.A.\***, Wu, J.X. \*, Montgomery, G.A.\* (2025) Biomass and abundance trends diverge as the North American avifauna undergoes widespread demographic declines. *Oikos*. [Link](https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/oik.11480)
