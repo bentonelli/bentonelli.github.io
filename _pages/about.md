@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher in the <a href="https://www.youngfleshlab.com/">Youngflesh Lab</a>  at Clemson University 
-
-[//]: # and a visiting researcher and lecturer at the University of Vermont in the <a href="https://werl-uvm.mystrikingly.com/">Wildlife Ecology Research Lab</a>. 
+I am a Postdoctoral Researcher in the <a href="https://www.youngfleshlab.com/">Youngflesh Lab</a>  at Clemson University and a visiting researcher and lecturer at the University of Vermont in the <a href="https://werl-uvm.mystrikingly.com/">Wildlife Ecology Research Lab</a>. 
 
 My research uses ecological big data to understand how migratory birds are responding to global change, with a focus on forecasting these shifts into the future. Specifically, I'm interested in understanding how changes to bird migration impact disease dynamics in wildlife and human populations. Check out the "Research" page for more.
 
