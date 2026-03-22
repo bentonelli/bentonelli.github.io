@@ -47,26 +47,24 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-/* Bird-themed palette:
-   Forest canopy green, sky blue, golden amber, soft meadow backgrounds */
-$gray                       : #6b7b6e; // mossy gray-green
+$gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #f7f9f4; // soft meadow white
-$background-color           : #f7f9f4;
-$code-background-color      : #eef2eb; // pale lichen
+$body-color                 : #fff;
+$background-color           : #fff;
+$code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : #2c3e2d; // dark forest charcoal
+$text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
 
-$primary-color              : #3d6b4f; // forest canopy green
-$success-color              : #4a8c5c; // leafy green
-$warning-color              : #d4890a; // golden eagle amber
-$danger-color               : #b5372a; // cardinal red
-$info-color                 : #2b7a8c; // kingfisher teal
+$primary-color              : #7a8288;
+$success-color              : #62c462;
+$warning-color              : #f89406;
+$danger-color               : #ee5f5b;
+$info-color                 : #52adc8;
 
 /* brands */
 $behance-color              : #1769FF;
