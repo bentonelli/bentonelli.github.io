@@ -1,7 +1,7 @@
 ---
 title: An Earth Scientist's Guide to NASA FINESST
 ---
-**Last updated: Feb. 3rd, 2025**
+**Last updated: May. 13th, 2026**
 
 ### DEI-RELEVANT UPDATES
 
@@ -22,7 +22,7 @@ non-rocket scientists (get it?), e.g. biologists and ecologists.
 The FINESST program is comparable to the NSF Graduate Student Research
 Fellowship Program (GRFP) in that it funds 3 years of graduate school
 with an associated value of 50k per year. The selection rate of both
-programs (\~15%) are also very similar. The deadline is usually in February (this year, **Feb 26th is the due date**) 
+programs (\~15%) are also very similar. The deadline is usually in February (this year, **July 14th 2026 is the due date**) 
 
 Just looking at these numbers, one might think that the GRFP and FINESST
 should get the same amount of attention, since the expected value of
@@ -247,10 +247,10 @@ like me to add to this post, send me an email at btonelli (at) ucla
 ## Helpful Links:
 
 NASA FINESST Page:
-[here](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7b87947100-56AE-C4DC-C511-0349862D658A%7d&path=open)
+[here](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bF9C7B701-6405-FD55-6705-EB4B190646B8%7d&path=&method=init)
 
 NASA Strategic Plan:
-[here](https://www.nasa.gov/sites/default/files/atoms/files/fy_22_strategic_plan.pdf)
+[here](https://www.nasa.gov/ocfo/strategic-plan/)
 
 An Example Proposal:
 [here](http://bentonelli.github.io/Tonelli_Science_FINESST.pdf)
