@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 \* *Authors contributed equally*
 
+Taff C.C. and 80 others including **Tonelli B.A.** (2026) Diverent population trajectories despite similar response to temperature in a widespread aeriel insectivore. *PNAS*. [Link](https://www.pnas.org/doi/10.1073/pnas.2601817123)
+
 **Tonelli B.A.**, Youngflesh, C., Tingley M.W. (2026) Demography and dispersion: evaluating the causes and consequences of vagrancy in North American migratory birds. *Proceedings B*. [Link](https://royalsocietypublishing.org/rspb/article/293/2066/20252811/480726/Demography-and-dispersion-evaluating-the-causes)
 
 **Tonelli B.A.**, Youngflesh, C., Tingley M.W. (2026) An ecological cascade links climate variability to avian irruptions and zoonotic salmonellosis outbreaks. *PNAS*. [Link](https://www.pnas.org/doi/10.1073/pnas.2511209123)
