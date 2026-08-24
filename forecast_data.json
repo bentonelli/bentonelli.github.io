@@ -1,0 +1,86 @@
+{
+  "season_label": "Winter 2026–27",
+  "season_short": "2026–27",
+  "last_updated": "August 2026",
+  "tracking_live": false,
+  "risk_thresholds": {
+    "very_low": -0.5,
+    "low": -0.25,
+    "slightly_elevated": 0.25,
+    "high": 0.5
+  },
+  "regions": {
+    "west": {
+      "label": "Western U.S.",
+      "chance_big": 0.148,
+      "relative_to_baseline": 0.3348,
+      "category": "High",
+      "cone_crop": "below average"
+    },
+    "east": {
+      "label": "Eastern U.S.",
+      "chance_big": 0.1645,
+      "relative_to_baseline": 0.2864,
+      "category": "High",
+      "cone_crop": "below average"
+    }
+  },
+  "species": [
+    {
+      "name": "Pine Siskin",
+      "west_z": 0.655,
+      "east_z": 0.991,
+      "west_last_year_z": -0.75,
+      "east_last_year_z": -0.64
+    },
+    {
+      "name": "Red-breasted Nuthatch",
+      "west_z": 0.728,
+      "east_z": 0.048,
+      "west_last_year_z": -1,
+      "east_last_year_z": 1
+    },
+    {
+      "name": "Evening Grosbeak",
+      "west_z": 0.3,
+      "east_z": 0.878,
+      "west_last_year_z": -0.1,
+      "east_last_year_z": -0.22
+    },
+    {
+      "name": "Pine Grosbeak",
+      "west_z": 0.341,
+      "east_z": 0.134,
+      "west_last_year_z": -0.17,
+      "east_last_year_z": 1.1
+    },
+    {
+      "name": "Purple Finch",
+      "west_z": -0.572,
+      "east_z": 0.426,
+      "west_last_year_z": 1.83,
+      "east_last_year_z": 0.26
+    },
+    {
+      "name": "Redpoll",
+      "west_z": 0.053,
+      "east_z": 0.542,
+      "west_last_year_z": 1,
+      "east_last_year_z": -0.7
+    },
+    {
+      "name": "Red Crossbill",
+      "west_z": 0.489,
+      "east_z": 0.95,
+      "west_last_year_z": -0.14,
+      "east_last_year_z": -1
+    },
+    {
+      "name": "White-winged Crossbill",
+      "west_z": 0.614,
+      "east_z": 1.513,
+      "west_last_year_z": 0.46,
+      "east_last_year_z": -0.28
+    }
+  ]
+}
