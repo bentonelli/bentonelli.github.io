@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Avian Salmonella Forecast · Winter 2026–27</title>
+  <title>Irruptive Outbreak Forecast · Winter 2026–27</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
@@ -336,6 +336,8 @@
     @media (max-width: 520px) {
       .nav-links { display: none; }
       .hero { padding: 3rem 1rem 2.5rem; }
+      .species-row { grid-template-columns: 1fr auto; }
+      .species-bar-track { display: none; }
     }
   </style>
 </head>
@@ -343,7 +345,7 @@
 
 <!-- ══ NAV ══ -->
 <nav>
-  <a class="nav-brand" href="#">Avian Salmonella Forecast</a>
+  <a class="nav-brand" href="#">Irruptive Outbreak Forecast</a>
   <ul class="nav-links">
     <li><a href="#risk">Outbreak Risk</a></li>
     <li><a href="#tracking">Live Tracking</a></li>
@@ -446,7 +448,7 @@
   <div class="container">
     <h2 class="section-title">Irruption Forecast by Species</h2>
     <p class="section-intro">
-      Bars show predicted irruption size relative to the long-run average. A bar extending right
+      Bars show predicted irruption risk relative to the long-run average. A bar extending right
       means an irruption risk is elevated; left means an irruption is less likely than normal.
     </p>
 
@@ -590,7 +592,7 @@
 
 <!-- ══ FOOTER ══ -->
 <footer>
-  <span id="footer-season-line">Avian Salmonella Forecast · Winter 2026–27 · Forecast last updated August 2026.</span><br />
+  <span id="footer-season-line">Irruptive Outbreak Forecast · Winter 2026–27 · Forecast last updated August 2026.</span><br />
   Built on ecological model described in <em>Tonelli et al. (2026)</em>.
   Data based on real stats. UI built with <a href="https://claude.ai/code">Claude</a> ·
   For questions contact <a href="#">bentonelli.github.io</a>.
@@ -752,11 +754,11 @@
     const res = await fetch('forecast_data.json', { cache: 'no-store' });
     DATA = await res.json();
 
-    document.title = `Avian Salmonella Forecast · ${DATA.season_label}`;
+    document.title = `Irruptive Outbreak Forecast · ${DATA.season_label}`;
     document.getElementById('nav-badge').textContent = DATA.season_label;
     document.getElementById('hero-season-badge').textContent = `${DATA.season_label} Forecast`;
     document.getElementById('footer-season-line').textContent =
-      `Avian Salmonella Forecast · ${DATA.season_label} · Forecast last updated ${DATA.last_updated}.`;
+      `Irruptive Outbreak Forecast · ${DATA.season_label} · Forecast last updated ${DATA.last_updated}.`;
     document.getElementById('tracking-intro').textContent = DATA.tracking_live
       ? `Pine Siskin sightings reported to eBird are tracked here for signs of illness throughout the ${DATA.season_short} season. Click any marker for location and date details.`
       : `Once the winter season of ${DATA.season_short} gets underway, Pine Siskin sightings reported to eBird will appear here too.`;
