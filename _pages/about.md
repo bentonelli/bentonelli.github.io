@@ -14,6 +14,8 @@ My research uses ecological big data to understand how migratory birds are respo
 
 I aim to make my work accesible to a broad audience through the creation of web tools and newsletters like the <a href="https://bentonelli.github.io/Irr_Salm_Forecast.html">Irruptive Outbreaks Forecast</a> (a tool to forecast zoonotic salmonella outbreaks), the <a href="https://bentonelli.github.io/rarebirdforecast/">Rare Bird Forecast</a> (a dashboard for predicting avian vagrancy), the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdkvU-8jkAJq785k9cw9cKuhC6HezMp97IU01zjKB1oDfavew/viewform?usp=dialog"> Early Bird Forecast</a> (a weekly email sent out during spring migration season that predicts what bird species will arrive in your area), the <a href="https://bentonelli.github.io/botw/">Bird of the Week Newsletter</a> (for people who just like birds), plus interesting visualizations like the one below. You can read more about what this specific one is about <a href="https://bentonelli.github.io/Bird-Names-For-Birds-a-Map/">here</a>! 
 
+I'm also the creator of <a href="https://find-a-flock.com/">Find-A-Flock</a> (A web-based daily bird range geography quiz) and <a href="https://pokeabird.com/">Poke-A-Bird</a> (a mobile app).
+
 Outside of work, I spend most of my time running or hanging out with my dog, Eloise.
 You can contact me at btonell (at) clemson (dot) edu  
 
